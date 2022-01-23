@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewProblems", "InterviewProblems\InterviewProblems.csproj", "{3E1CF22C-E44A-4800-8CB2-8CBFB1F8DDD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticConstructor", "StaticConstructor\StaticConstructor.csproj", "{7F82BE98-7452-4A0F-A0BF-41511CDFB0B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3E1CF22C-E44A-4800-8CB2-8CBFB1F8DDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E1CF22C-E44A-4800-8CB2-8CBFB1F8DDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E1CF22C-E44A-4800-8CB2-8CBFB1F8DDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F82BE98-7452-4A0F-A0BF-41511CDFB0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F82BE98-7452-4A0F-A0BF-41511CDFB0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F82BE98-7452-4A0F-A0BF-41511CDFB0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F82BE98-7452-4A0F-A0BF-41511CDFB0B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
